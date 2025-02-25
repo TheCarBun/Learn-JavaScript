@@ -7,11 +7,17 @@ Welcome to my JavaScript tutorial journey! This README documents my progress as 
 1. **Project 1: Adventure Game**
 
    - Description: A command-line adventure game.
-   - Skills Learned: Variables, functions, while loops and basic input/output.
+   - Skills Learned: Variables, while loops and basic input/output.
 
-2. **Project 2:**
+2. **Project 2: Calculator**
 
-3. **Project 3:**
+   - Description: A simple calculator that performs basic arithmetic operations.
+   - Skills Learned: Functions and switch case
+
+3. **Project 3: Contact Management System**
+
+   - Description: A system to manage contacts with features to add, delete, and search contacts.
+   - Skills Learned: For loops, arrays, and objects.
 
 4. **Project 4:**
 
