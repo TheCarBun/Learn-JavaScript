@@ -19,7 +19,10 @@ Welcome to my JavaScript tutorial journey! This README documents my progress as 
    - Description: A system to manage contacts with features to add, delete, and search contacts.
    - Skills Learned: For loops, arrays, and objects.
 
-4. **Project 4:**
+4. **Project 4: Tic Tac Toe Game**
+
+- Description: A classic Tic Tac Toe game played in the console.
+- Skills Learned: Handling nested arrays and implementing game logic.
 
 5. **Project 5:**
 
