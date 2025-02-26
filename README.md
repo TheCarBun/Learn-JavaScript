@@ -21,10 +21,12 @@ Welcome to my JavaScript tutorial journey! This README documents my progress as 
 
 4. **Project 4: Tic Tac Toe Game**
 
-- Description: A classic Tic Tac Toe game played in the console.
-- Skills Learned: Handling nested arrays and implementing game logic.
+   - Description: A classic Tic Tac Toe game played in the console.
+   - Skills Learned: Handling nested arrays and implementing game logic.
 
-5. **Project 5:**
+5. **Project 5: Quiz in Command Line**
+   - Description: A command-line quiz application.
+   - Skills Learned: JSON file handling, try-catch for error handling, arrow functions, sorting functions, and using timers with Date.
 
 ## Resources
 
